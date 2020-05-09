@@ -4,6 +4,8 @@ The following page describes the process workflow by which forms will be used to
 **Notes:**
 * GJP - Georgia Justice Project
 
+<img src="https://github.com/codeforatlanta/clean-slate/blob/master/Summit-forms-workflow.png" />
+
 # Process
 
 ## Step 1 - Template Creation
@@ -42,7 +44,8 @@ The following page describes the process workflow by which forms will be used to
   - Website
 
 ### Attendee | Fill out & submit application
-- Prospective attendees follow publicized link to the summit application form & fill it out.  When they submit it, their response is automatically saved to the summit JotForm account
+- Prospective attendees follow publicized link to the summit application form & fill it out.  
+- When they submit it, their response is automatically saved to the summit JotForm account
 
 ### Prosecutor | Review applications
 - Local jurisdiction prosecutors log into the summit JotForm account to obtain a list of submitted applications
